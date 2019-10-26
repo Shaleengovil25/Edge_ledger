@@ -136,6 +136,9 @@ margin: 0.5rem 0;
     right: 0;
     bottom: 0; */
 }
+#heart{
+    color: red;
+}
 .items{
     display: flex;
     padding: 1rem;
