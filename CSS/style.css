@@ -195,3 +195,9 @@ input,textarea{
     padding: 1px;
 
 }
+
+a[href="https://www.shaleen.co"]{
+    color:#fff;
+}
+
+
